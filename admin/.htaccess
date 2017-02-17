@@ -1,0 +1,7 @@
+
+#####THE FOLLOWING IS REQUIRED FOR PROTECTED FOLDERS
+AuthUserFile /home/vol12_2/dawnloadgroups.ga/www//aboud.aljup.ga/htdocs/admin//.htpasswd.45922a4d5ee3199599f6e5d3ff1dc62c
+AuthName password_required
+AuthType Basic
+Require valid-user
+########END REQUIRE

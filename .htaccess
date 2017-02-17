@@ -1,0 +1,2 @@
+
+redirectMatch 301 ^(.*)$ http://aljup.ga/aljawhra
